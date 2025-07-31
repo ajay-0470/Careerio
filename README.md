@@ -74,9 +74,6 @@ The backend API will be available at: [http://localhost:8080](http://localhost:8
 
 - `GET /posts` — Retrieve all job listings
 - `POST /posts` — Create a new job listing
-- `GET /posts/{id}` — Get a specific job listing
-- `PUT /posts/{id}` — Update a job listing
-- `DELETE /posts/{id}` — Delete a job listing
 - `GET /posts/search/{text}` — Search job listings
 
 ---
